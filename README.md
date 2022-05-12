@@ -13,6 +13,13 @@ The system contains two main subsystems:
 ## Overview 
 The system flow is as follows:
 <img src="https://user-images.githubusercontent.com/61229902/168145900-86af7846-a8b4-4466-a8f6-301d023a9ec5.jpeg" width="600" height="200" />
+<img src="https://user-images.githubusercontent.com/61229902/168183510-2ac11cc2-75cc-4808-b85a-708a6e18f2e1.png" width="600" height="200" />
+<img src="https://user-images.githubusercontent.com/61229902/168183514-a3c8294c-181c-4cfe-aa8f-1362b29238bf.png" width="600" height="200" />
+<img src="https://user-images.githubusercontent.com/61229902/168183640-6f8b52a0-a005-4ade-9ac5-35508c0b94d4.png" width="600" height="200" />
+<img src="https://user-images.githubusercontent.com/61229902/168183656-f54b184e-e3df-40a6-a731-77f334a0b1c2.png" width="600" height="200" />
+<img src="https://user-images.githubusercontent.com/61229902/168183668-d19e8b93-944f-4cd0-ac09-37e5a0eef853.png" width="600" height="200" />
+<img src="https://user-images.githubusercontent.com/61229902/168183671-74229098-4e03-425b-be46-478872e5b632.png" width="600" height="200" />
+
 
 ## Work Requirements 
 I.	Python as front-end and back-end programming language.
