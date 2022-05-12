@@ -1,5 +1,3 @@
-
-
 def read_tlm(packet):
     import json
 
@@ -15,7 +13,7 @@ def read_tlm(packet):
     '0000110': 'broadcast' }
     
     try:       
-        f = open("C:\\Users\\ahmed\\Downloads\\EgSA_TLM\\GUI\\tlm.json",)
+        f = open("..\\tlm.json",)
         dictt  = json.load(f)
         f.close()
     except FileNotFoundError :
@@ -105,61 +103,9 @@ def read_tlm(packet):
         except IndexError:
             print("The given packet for ADCS is missing data")
 
-    a_file = open("C:\\Users\\ahmed\\Downloads\\EgSA_TLM\\GUI\\tlm.json", "w")
+    a_file = open("..\\tlm.json", "w")
     json.dump(dictt, a_file)
     a_file.close()
     return dictt
     
     
-# read_tlm(packet)
-
-
-    # f = open("C:\\Users\\ahmed\\Downloads\\EgSA_TLM-main\\EgSA_TLM-main\\Back-end\\tlm.json",)
-    
-    # data  = json.load(f)
-    
-    # dictt['subsystem']['num']+=1
-    # if 'subsystem':
-    #     pass
-    # a_file = open("C:\\Users\\ahmed\\Downloads\\EgSA_TLM-main\\EgSA_TLM-main\\Back-end\\tlm.json", "w")
-    # json.dump(dictt, a_file)
-    # a_file.close()
-    
-    # print(data['ADCS'])
-
-    # data['ADCS']['num']+=1
-    # a_file = open("C:\\Users\\ahmed\\Downloads\\EgSA_TLM-main\\EgSA_TLM-main\\Back-end\\tlm.json", "w")
-    # json.dump(data, a_file)
-    # a_file.close()
-    
-
-
-
-
-
-# f = open("tlm.json",)
-
-# data  = json.load(f)
-
-# print(data)
-
-
-
-
-
-# =============================================================================
-# packet = bytes('0000100000000011110000000000000020111','utf-8')
-# l = []
-# for byte in packet:
-#     # print(bin(byte-48), end=' ')
-#     l.append(f'{(byte-48):0>8b}')
-#     print(f'{(byte-48):0>8b}', end=' ')
-#     # print(i)
-#     # if i == 2:
-# 
-#     # (f'{byte:0>8b}')
-#     
-# =============================================================================
-
-
-
