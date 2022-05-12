@@ -11,7 +11,8 @@ The system contains two main subsystems:
 
 
 ## Overview 
-![](https://user-images.githubusercontent.com/61229902/168145900-86af7846-a8b4-4466-a8f6-301d023a9ec5.jpeg=250x250) 
+<!-- ![](https://user-images.githubusercontent.com/61229902/168145900-86af7846-a8b4-4466-a8f6-301d023a9ec5.jpeg | width=100)  -->
+<img src="https://user-images.githubusercontent.com/61229902/168145900-86af7846-a8b4-4466-a8f6-301d023a9ec5.jpeg" width="600" height="200" />
 
 ## Work Requirements 
 
