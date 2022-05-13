@@ -22,14 +22,14 @@ The system flow is as follows:
 
 
 ## Work Requirements 
-<div >
+<div class="flex-container">
   <div >
     1. Python as front-end and back-end programming language. </br>
     2. SQL to design and program database.
   </div>
   
   <div >
-  <img src="https://uer-images.githubusercontent.com/61229902/168183668-d19e8b93-944f-4cd0-ac09-37e5a0eef853.png" width="100" height="220" />
+  <img src="https://user-images.githubusercontent.com/61229902/168183668-d19e8b93-944f-4cd0-ac09-37e5a0eef853.png" width="100" height="220" />
   </div>
   
 </div>
